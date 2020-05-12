@@ -1,0 +1,22 @@
+{
+	"name": "VK",
+	"description": "VK is a social network that unites people all over the world and helps them communicate comfortably and promptly",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://m.vk.com/",
+	"developer": {
+		"name": "ivan",
+		"url": "https://m.vk.com/"
+	},
+	"default_locale": "en-US",
+	"display": "browser",
+	"cursor": true,
+	"locales": {
+		"en-US": {
+			"name": "VK"
+		}
+	},
+	"icons": {
+		"128": "/icon.png"
+	}
+}
